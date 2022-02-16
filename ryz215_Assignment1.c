@@ -1,6 +1,7 @@
 /* 
     Name: Rena Zhao
     NetID: ryz215
+    GitHub Name: ryzhao123
 */
 
 #include <stdio.h>
