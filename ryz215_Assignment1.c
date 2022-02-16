@@ -6,7 +6,6 @@
 
 #include <stdio.h>
 #include <math.h>
-#include <stdbool.h>
 
 int main(int argc, char **argv){
     //  problem 1(a)
