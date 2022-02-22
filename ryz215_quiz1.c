@@ -1,3 +1,9 @@
+/* 
+    Name: Rena Zhao
+    NetID: ryz215
+    GitHub Name: ryzhao123
+*/
+
 #include <stdio.h>
 
 int fun(int a, int b, int c) {
